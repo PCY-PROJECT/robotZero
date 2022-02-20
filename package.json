@@ -1,0 +1,26 @@
+{
+  "name": "zero",
+  "version": "1.0.0",
+  "description": "this is a first test robot named zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "gozero"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCY-PROJECT/robotZero.git"
+  },
+  "keywords": [
+    "123qweasd"
+  ],
+  "author": "pcy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PCY-PROJECT/robotZero/issues"
+  },
+  "homepage": "https://github.com/PCY-PROJECT/robotZero#readme",
+  "dependencies": {
+    "socks5-https-client": "^1.2.1",
+    "telegram-bot-api": "^2.0.1"
+  }
+}
